@@ -1,4 +1,4 @@
-baseURL = "bmccrory.netlify.com"
+baseURL = "localhost:1313"
 languageCode = "en-us"
 title = "biamccrory.com website"
 theme = "meghna-hugo"
@@ -50,8 +50,8 @@ custom_css = ["css/custom.css"]
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/hero-area.jpg"
-    icon = "tf-ion-play"
+    bgImage = "images/slider/aqua.webp"
+    icon = ""
     heading = "It's A Wonderful Web"
     content= "We can make you love your website"
     btn = true
@@ -92,8 +92,8 @@ custom_css = ["css/custom.css"]
 
     # footer
     [params.footer]
-        copyright = "Themefisher Team"
-        copyrightURL = "http://www.themefisher.com"
+        copyright = "biamccrory"
+        copyrightURL = "http://www.biamccrory.com"
 
         # social Icons
         [[params.footer.socialIcon]]
