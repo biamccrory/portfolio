@@ -1,4 +1,4 @@
-baseURL = "localhost:1313"
+baseURL = "bmccrory.netlify.com"
 languageCode = "en-us"
 title = "biamccrory.com website"
 theme = "meghna-hugo"
